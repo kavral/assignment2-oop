@@ -10,9 +10,6 @@ The abstract class Vehicle serves as the superclass and defines common propertie
 javac *.java  
 java Main
 
-##  Screenshots
-(Output screenshot showing vehicle and driver information should be added here.)
-
 ##  Reflection
 Inheritance simplified the design by allowing shared vehicle properties and methods to be defined once in the Vehicle class. This reduced code duplication and made the system easier to extend.
 
